@@ -1,0 +1,8 @@
+export const categories=[{id:'1',name:'Âm nhạc',icon:'🎵'},{id:'2',name:'Công nghệ',icon:'💻'},{id:'3',name:'Thể thao',icon:'⚽'},{id:'4',name:'Workshop',icon:'🎨'},{id:'5',name:'Ẩm thực',icon:'🍜'}];
+export const events=[
+{id:'1',title:'Da Nang Music Festival',category:'Âm nhạc',date:'20/09/2026',time:'19:00',location:'Công viên Biển Đông, Đà Nẵng',price:250000,image:'https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=900',description:'Đêm nhạc ngoài trời với nhiều nghệ sĩ trẻ, không gian biển và hàng nghìn người tham dự.'},
+{id:'2',title:'Tech Future 2026',category:'Công nghệ',date:'26/09/2026',time:'08:30',location:'Ariyana Convention Centre, Đà Nẵng',price:150000,image:'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=900',description:'Sự kiện công nghệ dành cho sinh viên và developer với các chủ đề AI, Cloud và Mobile.'},
+{id:'3',title:'Night Run Da Nang',category:'Thể thao',date:'03/10/2026',time:'20:00',location:'Cầu Rồng, Đà Nẵng',price:120000,image:'https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=900',description:'Giải chạy đêm kết hợp âm nhạc và trải nghiệm thành phố về đêm.'},
+{id:'4',title:'Creative Design Workshop',category:'Workshop',date:'10/10/2026',time:'14:00',location:'The Workshop Coffee, Đà Nẵng',price:90000,image:'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=900',description:'Workshop thực hành thiết kế dành cho người mới bắt đầu.'},
+{id:'5',title:'Danang Food Carnival',category:'Ẩm thực',date:'17/10/2026',time:'16:00',location:'Quảng trường 29/3, Đà Nẵng',price:0,image:'https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=900',description:'Khám phá món ngon địa phương và nhiều gian hàng ẩm thực hấp dẫn.'}
+];

@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name":"EventHub",
+    "slug":"eventhub",
+    "version":"1.0.0",
+    "orientation":"portrait",
+    "userInterfaceStyle":"automatic",
+    "splash":{"resizeMode":"contain","backgroundColor":"#6C5CE7"},
+    "assetBundlePatterns":["**/*"],
+    "android":{"package":"com.eventhub.app"},
+    "ios":{"bundleIdentifier":"com.eventhub.app"},
+    "web":{"bundler":"metro"}
+  }
+}

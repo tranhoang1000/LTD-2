@@ -1,0 +1,16 @@
+export const appColors = {
+  primary: '#5669FF',
+  white: '#FFFFFF',
+  text: '#120D26',
+  textSecondary: '#747688',
+  textLight: '#E6E6E6',
+  gray: '#E4DFDF',
+  gray2: '#DADADA',
+  gray3: '#807A7A',
+  inputBorder: '#E4DFDF',
+  cyan: '#00F8FF',
+  danger: '#F0635A',
+  googleBtn: '#FFFFFF',
+  facebookBtn: '#FFFFFF',
+  dotInactive: 'rgba(255, 255, 255, 0.3)',
+};
