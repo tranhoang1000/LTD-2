@@ -30,3 +30,4 @@ Không cần backend. Bạn có thể nhập email/mật khẩu bất kỳ để
 
 ## Hướng phát triển cho bài lớn
 Có thể tích hợp Firebase Authentication + Firestore, Firebase Storage, thông báo push và thanh toán.
+app by tranhoang
